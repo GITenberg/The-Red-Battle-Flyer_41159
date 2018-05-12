@@ -1,0 +1,59 @@
+_repo: The-Red-Battle-Flyer_41159
+_version: 0.1.0
+alternative_title: Der rote Kampfflieger. English
+contributor:
+  translator:
+    agent_name: Barker, J. Ellis
+    aliases:
+    - Barker, T. Ellis
+    - Eltzbacher, O.
+    birthdate: 1870
+    deathdate: 1948
+    gutenberg_agent_id: '33291'
+    url: http://www.gutenberg.org/2009/agents/33291
+covers:
+- cover_type: archival
+  image_path: 41159-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richthofen, Manfred, Freiherr von
+    aliases:
+    - Richthofen, Eddie
+    - Rote Kampfflieger
+    - Richthofen, Capt. Manfred Freiherr von
+    - Rote Baron
+    - Rote Freiherr
+    - Red Baron
+    - Richthofen, Manfred Albrecht, Freiherr von
+    birthdate: 1892
+    deathdate: 1918
+    gutenberg_agent_id: '26589'
+    url: http://www.gutenberg.org/2009/agents/26589
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Manfred_von_Richthofen
+    - http://de.wikipedia.org/wiki/Manfred_von_Richthofen
+  editor:
+    agent_name: Grey, C. G. (Charles Grey)
+    alias: Grey, Charles G. (Charles Grey)
+    birthdate: 1875
+    deathdate: 1953
+    gutenberg_agent_id: '45851'
+    url: http://www.gutenberg.org/2009/agents/45851
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41159'
+  lccn: '18013646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Aerial operations'
+- !lcsh 'World War, 1914-1918 -- Personal narratives, German'
+- !lcsh 'Fighter pilots -- Germany -- Biography'
+- !lcc 'D501'
+- !lcsh 'Richthofen, Manfred, Freiherr von, 1892-1918'
+title: The Red Battle Flyer
+url: http://www.gutenberg.org/ebooks/41159
